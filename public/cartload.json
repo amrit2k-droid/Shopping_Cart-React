@@ -1,0 +1,102 @@
+ [
+    {
+      "id": 1,
+      "brand_name": "Lux",
+      "product_name": "soap",
+      "quantity": "1",
+      "price": "MRP 45",
+      "mrf": 30,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8XrzgJhUUZam0UGGclOsLR-M-dwJ63K84UDikqx6nUqNwvBkR",
+      "offer_text": "20% OFF"
+    },
+    {
+     "id": 2,
+     "brand_name": "Patanjali",
+     "product_name": "face wash",
+     "quantity": "200gm",
+     "price": "MRP 100",
+     "mrf": 80,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHfNtGK8h1xdVKkMSVjceUlhZTVwiv_LiLs6xJNBN0E3s46L6r",
+     "offer_text": "10% OFF"
+   },
+   {
+     "id": 3,
+     "brand_name": "Patanjali",
+     "product_name": "shampoo",
+     "quantity": "250 ml",
+     "price": "MRP 200",
+     "mrf": 150,
+     "img_url": "https://www.patanjaliayurved.net/assets/product_images/400x500/1515229584AntiDandruff400x500.png",
+     "offer_text": "20% OFF"
+   },
+   {
+     "id": 4,
+     "brand_name": "Kanchi",
+     "product_name": "bread",
+     "quantity": "1",
+     "price": "MRP 45",
+     "mrf": 30,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSDbsbAmoF5gFh5lSh8HscQ14H0OLnMCfhhDabRQWT4QtPPYaH",
+     "offer_text": "10% OFF"
+   },
+   {
+     "id": 5,
+     "brand_name": "Amul",
+     "product_name": "milk",
+     "quantity": "1l",
+     "price": "MRP 45",
+     "mrf": 35,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRl2Q70npleD2vBzjju2ojRapJv14tQHVUWf5UEOjSq_cBZKGl3",
+     "offer_text": "10% OFF"
+   },
+   {
+     "id": 6,
+     "brand_name": "Amul",
+     "product_name": "paneer",
+     "quantity": "300gm",
+     "price": "MRP 100",
+     "mrf": 80,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2-geO8dpGgEhRrsJjdrJAxKvGTQx2Bh_oVoHCsrCSFnK4vtSS",
+     "offer_text": "10% OFF"
+   },
+   {
+     "id": 7, 
+     "brand_name": "H&M",
+     "product_name": "t-shirt",
+     "quantity": "1",
+     "price": "MRP 2500",
+     "mrf": 2400,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6j8uSF8PFG_YW9PMV2MbexJMrVNNydoIhvj3Y2ojbJGQ8I9n-",
+     "offer_text": "15% OFF"
+   },
+   {
+     "id": 8,
+     "brand_name": "Louis Phillipe",
+     "product_name": "formal pants",
+     "quantity": "1",
+     "price": "MRP 1800",
+     "mrf": 1500,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQHfkNC490OaMBa2Hhdi9eECYqvV0ICxM_xvKXyOagqasBY-O5y",
+     "offer_text": "5% OFF"
+   },
+   {
+     "id": 9,
+     "brand_name": "Beardo",
+     "product_name": "hair wax",
+     "quantity": "50 gm",
+     "price": "MRP 300",
+     "mrf": 250,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR01QApr8ZrxIrqZy3T6TC7Ioy2S9ho4PdLGtGRbbjDCWU8c9Af",
+     "offer_text": "15% OFF"
+   },
+   {
+     "id": 10,
+     "brand_name": "Set Wet",
+     "product_name": "gel",
+     "quantity": "1",
+     "price": "MRP 200",
+     "mrf": 150,
+     "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTzq8iuA6athlzpEz8zYvYfr730dmAv9CU87zW4JyCuSP2GATC",
+     "offer_text": "20% OFF"
+   }
+  ]

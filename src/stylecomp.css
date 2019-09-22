@@ -1,0 +1,51 @@
+.styleimage {
+    height: 300px;
+    width: 300px
+}
+.content {
+    display: flex;
+  }
+  
+  .content .parent {
+    margin-right: 10px;
+    display: block;
+  }
+  
+  .content p,
+  .content a {margin: 0;}
+
+  .pdtName {
+      color: green;
+      font-weight: bold
+  }
+
+  .pdtMrf {
+      font-weight: bold
+  }
+
+.footer {
+    background-color: purple;
+    height: 98px
+    
+}
+
+.checkoutBtn {
+    background-color: green;
+    margin-right: 0px
+}
+
+.offerDesc {
+    font-size: 20px
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+.qtyAndAmt {
+    font-size: 20px;
+    font-weight: bold
+}
